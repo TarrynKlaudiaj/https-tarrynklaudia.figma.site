@@ -1,1 +1,3 @@
-https://tarrynklaudia.figma.site/
+# Portfolio Access
+
+Access the portfolio here: [tarrynklaudia.figma.site](https://tarrynklaudia.figma.site/)
